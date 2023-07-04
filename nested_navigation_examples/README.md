@@ -13,4 +13,3 @@ Para ver como o aplicativo de exemplo é implementado usando os dois pacotes, ve
 - [Exemplo GoRouter](examples/gorouter)
 - [Exemplo Beamer](examples/beamer)
 
-### [LICENSE: MIT](LICENSE.md)
