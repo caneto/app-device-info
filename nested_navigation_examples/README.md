@@ -6,7 +6,7 @@ Este é um aplicativo de exemplo que mostra como implementar a navegação infer
 
 Baseia-se neste artigo no meu site:
 
-- [Flutter Bottom Navigation Bar com Stateful Nested Routes usando GoRouter]([https://www.capsistema.com.br/]))
+- [Flutter Bottom Navigation Bar com Stateful Nested Routes usando GoRouter]([https://capsistema.com.br/index.php/2023/07/03/flutter-bottom-navigation-bar-com-stateful-nested-routes-usando-gorouter/]))
 
 Para ver como o aplicativo de exemplo é implementado usando os dois pacotes, verifique estas pastas:
 
