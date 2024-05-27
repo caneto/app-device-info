@@ -2,14 +2,14 @@ import 'package:confetti/confetti.dart';
 import 'package:flutter/material.dart';
 import 'package:scratcher/scratcher.dart';
 
-class ScretchCardDemo extends StatefulWidget {
-  const ScretchCardDemo({super.key});
+class ScratchCardDemo extends StatefulWidget {
+  const ScratchCardDemo({super.key});
 
   @override
-  State<ScretchCardDemo> createState() => _ScretchCardDemoState();
+  State<ScratchCardDemo> createState() => _ScratchCardDemoState();
 }
 
-class _ScretchCardDemoState extends State<ScretchCardDemo> {
+class _ScratchCardDemoState extends State<ScratchCardDemo> {
   late ConfettiController _controller;
 
   @override

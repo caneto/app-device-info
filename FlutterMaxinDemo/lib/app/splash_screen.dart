@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
-import 'scratch_card_demo.dart';
+import 'myapp_demo_page.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -26,7 +26,7 @@ class VideoState extends State<SplashScreen>
 
   void navigationPage() {
     Navigator.of(context).push(
-      MaterialPageRoute(builder: (context) => const ScratchCardDemo()),
+      MaterialPageRoute(builder: (context) => const MyAppDemoPage()),
     );
   }
 
